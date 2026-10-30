@@ -43,10 +43,13 @@ import io
 from sklearn.preprocessing import StandardScaler
 from sklearn.preprocessing import MinMaxScaler
 from sklearn.model_selection import train_test_split
-df=pd.read_csv("Churn_Modelling.csv",index_col="RowNumber")         # Read the dataset from drive
-df.head()
- # Finding Missing Values
-df.isnull().sum()
+df=pd.read_csv("Churn_Modelling.csv",index_col="RowNumber")
+
+# Read the dataset from drive
+  df.head()
+
+# Finding Missing Values
+  df.isnull().sum()
 
  # Check For Duplicates
 print(df.duplicated().sum())
