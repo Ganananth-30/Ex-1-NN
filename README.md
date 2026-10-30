@@ -1,5 +1,5 @@
-<H3>GANANANTH H</H3> 
-<H3>212225230070.</H3> 
+<H3>NAME : GANANANTH H</H3> 
+<H3>REGISTER NUMBER : 212225230070.</H3> 
 <H3>EX. NO.1</H3>
 <H3>30.10.2.2026</H3>
 <H1 ALIGN =CENTER> Introduction to Kaggle and Data preprocessing</H1>
@@ -71,8 +71,20 @@ print("Xtrain:\n" ,Xtrain, "\nXtest:\n", Xtest)
 # Y Train and Test
 print("\nYtrain:\n" ,Ytrain, "\nYtest:\n", Ytest)
 ## OUTPUT:
-SHOW YOUR OUTPUT HERE
 
+*DATASET:  
+
+<img width="1678" height="355" alt="image" src="https://github.com/user-attachments/assets/51deaf34-553f-4777-8508-c25ecdeb78fe" />
+
+DATA SPLITTING and TRAIN AND TEST DATA:
+
+<img width="947" height="618" alt="image" src="https://github.com/user-attachments/assets/5e6aedf9-3e48-4d2e-98c5-a83403c15079" />
+
+<img width="1015" height="552" alt="image" src="https://github.com/user-attachments/assets/6469436d-720f-4a6a-b2b1-4a995a066fcd" />
+
+<img width="1070" height="557" alt="image" src="https://github.com/user-attachments/assets/d475af2e-d0a2-4f8d-99cd-8f696e7f1933" />
+
+<img width="860" height="133" alt="image" src="https://github.com/user-attachments/assets/4d8db3c3-73ee-4177-982d-aca2c48e6e8c" />
 
 
 ## RESULT:
