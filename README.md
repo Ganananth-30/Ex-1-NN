@@ -80,7 +80,7 @@ DATA SPLITTING and TRAIN AND TEST DATA:
 
 <img width="947" height="618" alt="image" src="https://github.com/user-attachments/assets/5e6aedf9-3e48-4d2e-98c5-a83403c15079" />
 
-<img width="1015" height="552" alt="image" src="https://github.com/user-attachments/assets/6469436d-720f-4a6a-b2b1-4a995a066fcd" />
+<img width="967" height="582" alt="image" src="https://github.com/user-attachments/assets/e67de5d6-05be-4b22-961a-ae4229d4dfbe" />
 
 <img width="1070" height="557" alt="image" src="https://github.com/user-attachments/assets/d475af2e-d0a2-4f8d-99cd-8f696e7f1933" />
 
